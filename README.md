@@ -1,9 +1,9 @@
- ## 😎 Hey there! I'm Eugenio Silva - @eugeniosilva <img src="https://github.com/eugenioduarte/eugenioduarte/blob/main/Hi.gif" width="25">
+ ## 😎 Hey there! I'm Eugenio Silva - @eugeniosilva 
 
 <img src="https://github.com/eugenioduarte/eugenioduarte/blob/main/shutterstock_1108368557.jpg">
 
 
-### 👨🏻‍ About Me
+### 👋 About Me
 Optimistic, curious and a person who really does the best for the company 💚, this way I can help as much as possible the company I work for and in parallel evolving in the tools and methodologies I like.
 
 

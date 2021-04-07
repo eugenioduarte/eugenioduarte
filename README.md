@@ -1,6 +1,6 @@
 ## Eugenio Silva - @eugeniosilva
 
-<img src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png" width="150" height="150">
+<img src="https://github.com/eugenioduarte/eugenioduarte/blob/main/shutterstock_1108368557.jpg">
 
 Optimistic, curious and a person who really does the best for the company, this way I can help as much as possible the company I work for and in parallel evolving in the tools and methodologies I like.
 

@@ -1,4 +1,4 @@
- ## 😎 Eugenio Silva - @eugeniosilva
+ ## 😎 Hey there! I'm Eugenio Silva - @eugeniosilva <img src="https://github.com/eugenioduarte/eugenioduarte/blob/main/Hi.gif" width="25">
 
 <img src="https://github.com/eugenioduarte/eugenioduarte/blob/main/shutterstock_1108368557.jpg">
 

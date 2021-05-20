@@ -22,7 +22,11 @@ Finishing the computer engineering course and Graduated in Design, after more th
 
  ### ⚡ My targets
 - React Native
-- Android
+- TypeScript
+- Redux - Redux-Saga - Redux-thunk
+- Fastlane
+- CodePush
+- Jest
 
 
  ### ✍ Get in touch

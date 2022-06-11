@@ -24,9 +24,7 @@ Finishing the computer engineering course and Graduated in Design, after more th
 - React Native
 - TypeScript
 - Redux - Redux-Saga - Redux-thunk
-- Fastlane
-- CodePush
-- Jest
+
 
 
  ### ✍ Get in touch

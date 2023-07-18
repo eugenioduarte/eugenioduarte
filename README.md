@@ -1,6 +1,6 @@
  ## 😎 Hey there! I'm Eugenio Silva - @eugeniosilva 
 
-<img src="https://github.com/eugenioduarte/eugenioduarte/blob/main/shutterstock_1108368557.jpg">
+<img src="https://github.com/eugenioduarte/eugenioduarte/blob/main/shutterstock_1108368557.jpg" width="100" height="100">
 
 
 ### 👋 About Me

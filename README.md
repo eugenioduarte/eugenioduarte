@@ -1,19 +1,9 @@
- ## 😎 Hey there! I'm Eugenio Silva - @eugeniosilva 
+ ## 😎 Hey there! I'm Eugenio Silva
 
-<img src="https://github.com/eugenioduarte/eugenioduarte/blob/main/shutterstock_1108368557.jpg" width="200" height="100">
-
+![Alt Text](https://media0.giphy.com/media/tNB5bIu3E5Z0EYEMP5/giphy.gif?cid=ecf05e47hk05p7k7sea91xgzifmw55n3emg1kw3kz9w86s1v&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ### 👋 About Me
-Optimistic, curious and a person who really does the best for the company 💚, this way I can help as much as possible the company I work for and in parallel evolving in the tools and methodologies I like.
-
-
- ### 💻 That's what I do
-
-I'm a fullStack developer at Yeah, a small studio that develops an internal app for a car manufacturer, through this experience I had the opportunity to work with php, aws, git and my main focus **react native**
-
-
-My love for react native made me responsible in the current company that I am, for two applications made by me from scratch that help in the day to day of education professionals.
-
+I am a React Native developer with a strong commitment to delivering exceptional results for the company I work with. My primary objective is to make significant contributions to the company's success by leveraging my expertise in React Native development. I believe we can accomplish remarkable achievements together. 💚
 
  ### ✍ Get in touch
 <img src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png" width="15" height="15"> -  [Linkedin](https://www.linkedin.com/in/eugenioduartesilva/) 

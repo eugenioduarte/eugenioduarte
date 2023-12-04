@@ -1,6 +1,6 @@
  ## 😎 Hey there! I'm Eugenio Silva
 
-![Alt Text]([https://media0.giphy.com/media/tNB5bIu3E5Z0EYEMP5/giphy.gif?cid=ecf05e47hk05p7k7sea91xgzifmw55n3emg1kw3kz9w86s1v&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://media1.giphy.com/media/BpGWitbFZflfSUYuZ9/giphy.gif?cid=ecf05e47q5e0mcoezzvfyqm4kng1q2huek0y7hzy19ftdhti&ep=v1_gifs_search&rid=giphy.gif&ct=g))
+![Alt Text]([https://i.giphy.com/media/BpGWitbFZflfSUYuZ9/giphy.webp])
 
 ### 👋 About Me
 I am a React Native developer with a strong commitment to delivering exceptional results for the company I work with. My primary objective is to make significant contributions to the company's success by leveraging my expertise in React Native development. I believe we can accomplish remarkable achievements together. 💚

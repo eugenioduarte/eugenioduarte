@@ -1,9 +1,9 @@
- ## 😎 Hey there! I'm Eugenio Silva
+ ## Hey there! I'm Eugenio Silva
 
 ![Alt Text](https://i.giphy.com/media/BpGWitbFZflfSUYuZ9/giphy.webp)
 
-### 👋 About Me
-I am a React Native developer with a strong commitment to delivering exceptional results for the company I work with. My primary objective is to make significant contributions to the company's success by leveraging my expertise in React Native development. I believe we can accomplish remarkable achievements together. 💚
+### About Me
+I am a React Native developer
 
  ### ✍ Get in touch
 <img src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png" width="15" height="15"> -  [Linkedin](https://www.linkedin.com/in/eugenioduartesilva/) 

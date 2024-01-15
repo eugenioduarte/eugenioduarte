@@ -1,11 +1,11 @@
- ## Hey there! I'm Eugenio Silva
+## Hey there! I'm Eugenio Silva
 
 ![Alt Text](https://i.giphy.com/media/BpGWitbFZflfSUYuZ9/giphy.webp)
 
-### About Me
+## About Me
 I am a React Native developer
 
- ### ✍ Get in touch
+## Get in touch
 <img src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png" width="15" height="15"> -  [Linkedin](https://www.linkedin.com/in/eugenioduartesilva/) 
 
 

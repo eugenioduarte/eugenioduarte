@@ -1,5 +1,4 @@
 # Hey there! I'm Eugenio Silva, 
-I am a React Native developer
 
 ![Alt Text](https://i.giphy.com/media/BpGWitbFZflfSUYuZ9/giphy.webp)
 

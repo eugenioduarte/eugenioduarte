@@ -1,6 +1,6 @@
 # Hey there! I'm Eugenio Silva, 
 
-![Alt Text](https://giphy.com/embed/z1AIjbEJfX0mDJ9YLp)
+![Alt Text]([https://giphy.com/embed/z1AIjbEJfX0mDJ9YLp](https://www.peacocktv.com/))
 
 ## Get in touch
 <img src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png" width="15" height="15"> -  [Linkedin](https://www.linkedin.com/in/eugenioduartesilva/) 

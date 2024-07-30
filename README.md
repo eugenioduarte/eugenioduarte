@@ -1,6 +1,6 @@
 # Hey there! I'm Eugenio Silva,
 
-![Eugenio's GIF](https://i.giphy.com/BpGWitbFZflfSUYuZ9.webp)
+![Eugenio's GIF](https://i.giphy.com/QMHoU66sBXqqLqYvGO.webp)
 
 ## Get in touch
 <img src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png" width="15" height="15"> -  [Linkedin](https://www.linkedin.com/in/eugenioduartesilva/) 

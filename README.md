@@ -5,7 +5,8 @@
 **React Native Developer | Lisbon, Portugal**
 
 📞 +351 927 707 505 | 📧 eugenioduartesilva@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/eugenioduartesilva) | [GitHub](https://github.com/seu-usuario-github) 
+
+[LinkedIn](https://www.linkedin.com/in/eugenioduartesilva) | [Portfólio](https://github.com/eugenioduarte/MyMeds)
 
 ---
 

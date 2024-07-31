@@ -1,8 +1,6 @@
-### Hey there! I'm Eugenio Silva,
+## Hey there! I'm Eugenio Silva
 
 ![Eugenio's GIF](https://i.giphy.com/QMHoU66sBXqqLqYvGO.webp)
-
-# Eugenio Silva
 
 **React Native Developer | Lisbon, Portugal**
 
@@ -55,7 +53,4 @@ My background in design and project management further enriches my technical and
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eugenioduarte&layout=compact&theme=radical)
 
----
-
-✨ **“Fostering a collaborative team environment and driving innovation through continuous learning.”** ✨
 

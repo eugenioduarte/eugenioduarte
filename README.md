@@ -51,9 +51,9 @@ My background in design and project management further enriches my technical and
 
 ## 📈 GitHub Stats
 
-![Eugenio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario-github&show_icons=true&theme=radical)
+![Eugenio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eugenioduarte&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-github&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eugenioduarte&layout=compact&theme=radical)
 
 ---
 

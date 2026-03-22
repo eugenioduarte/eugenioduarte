@@ -6,7 +6,7 @@
 
 📧 eugenioduartesilva@gmail.com  
 
-[LinkedIn](https://www.linkedin.com/in/eugenioduartesilva) | [Portfólio](https://github.com/eugenioduarte/MyMeds)
+[LinkedIn](https://www.linkedin.com/in/eugenioduartesilva) | [Portfólio](https://github.com/eugenioduarte/FUSE)
 
 ---
 
